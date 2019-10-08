@@ -1,0 +1,3 @@
+learn javascript
+learn git
+drink coffee
